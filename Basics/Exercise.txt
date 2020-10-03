@@ -1,0 +1,9 @@
+Question 1: What is the terminal in your own words?
+Answer: The terminal is a raw written form of the finder. Similar to the finder it allows you to navigate, create, and delete files.
+
+Question 2: What is the major difference between Git and Github?
+Answer: Git is a decentralized or distributed version control system (vcs allows programmers to keep track of changes, to create a history). Conversely, Github is a repository ( a collection of files managed by Git) hosting services provided by Github inc.
+
+Question 3: Why do we use Github?
+Answer: It is one of the largest, or lagest repository, available. It is free, it allow others to view your projects which can also serve as a means to create a portfolio. Similarly, it allow us to view other programmers projects which allows us to grow. In addition, it allow us to track our changes and it makes it easier to collaborate in projects.
+
